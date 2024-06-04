@@ -1,6 +1,7 @@
 package Miscellaneous;
 import java.util.*;
 
+
 public class Day_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -44,8 +45,6 @@ public class Day_6 {
         scanner.close();
     }
 }
-
-// hotem management system 
 
 class Room {
     String type;
